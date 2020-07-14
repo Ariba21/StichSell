@@ -1,0 +1,2 @@
+# StichSell
+HCI coursework project
